@@ -1,6 +1,7 @@
 # Hello I'm Robin Vanluchene 👋
 
 I'm a web designer / developer who's currently studying at Howest.
+
 I used to be a full-stack developer but now I'm looking to focus my efforts in creating interfaces that are both fun and functional.
 
 
